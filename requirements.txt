@@ -1,0 +1,4 @@
+streamlit==1.35.0
+llama-cpp-python==0.2.72
+huggingface-hub==0.22.2
+PyMuPDF==1.23.22
